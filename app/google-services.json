@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213792017672",
+    "project_id": "activity-switch",
+    "storage_bucket": "activity-switch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213792017672:android:13a5ed70d22cbfdd30b0bd",
+        "android_client_info": {
+          "package_name": "arish99.example.activityswitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213792017672-iv47m9e8da75u7t89fg64k44sia9sbgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrzQCVj8Ls8WqSl9LL6akJ2YeFhuvGhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213792017672-iv47m9e8da75u7t89fg64k44sia9sbgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
